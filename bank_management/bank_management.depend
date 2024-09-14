@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1726223453 source:c:\users\harshatt\documents\new folder\bank_management\main.cpp
+	<iostream>
+	<math.h>
+	<mysql.h>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<bits/stdc++.h>
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\mysql.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"field_types.h"
+	"my_list.h"
+	"mysql_com.h"
+	"mysql/client_plugin.h"
+	"mysql_version.h"
+	"mysql_time.h"
+	"errmsg.h"
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\field_types.h
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\my_list.h
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\mysql_com.h
+	<stdbool.h>
+	<stdint.h>
+	"my_command.h"
+	"my_compress.h"
+	"my_io.h"
+	"mysql/components/services/bits/my_io_bits.h"
+	<stdbool.h>
+	"mysql/udf_registration_types.h"
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\my_command.h
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\my_compress.h
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\mysql\udf_registration_types.h
+	<stdbool.h>
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1720797424 c:\program files\mysql\mysql server 8.0\include\mysql_version.h
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\mysql_time.h
+
+1720791926 c:\program files\mysql\mysql server 8.0\include\errmsg.h
+
+1726223453 source:c:\users\harshatt\desktop\bank_management_system\bank_management\main.cpp
+	<iostream>
+	<math.h>
+	<mysql.h>
+	<cstdlib>
+	<iomanip>
+	<ctime>
+	<bits/stdc++.h>
+
